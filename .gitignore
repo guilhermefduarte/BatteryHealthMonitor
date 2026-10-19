@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Battery reports
+battery-report.html
+battery_report.html
+
+# Windows
+Thumbs.db
